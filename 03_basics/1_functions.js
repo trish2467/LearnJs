@@ -1,3 +1,6 @@
+//most imp->loop ke bhar value exist nahi kregi
+
+
 function sayMyName()
 {
 console.log("t");
